@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Repo Link](https://github.com/PranavReddy2703/social-links-profile.git)
-- Live Site URL: [Website Link](https://github.com/PranavReddy2703/social-links-profile.git)
+- Live Site URL: [Website Link](https://pranavreddy2703.github.io/social-links-profile/)
 
 ## My process
 
